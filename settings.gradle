@@ -1,0 +1,2 @@
+rootProject.name='template-android-easy-tools'
+include ':app'

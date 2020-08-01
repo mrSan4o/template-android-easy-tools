@@ -1,0 +1,12 @@
+build
+*.iml
+.idea
+gradle.properties
+local.properties
+.gradle
+class_files.txt
+*.pid
+
+mapping.txt
+seeds.txt
+unused.txt

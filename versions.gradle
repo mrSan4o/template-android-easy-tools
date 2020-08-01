@@ -1,0 +1,7 @@
+ext.build_versions = [
+        version    : "1.0",
+        versionCode: 1,
+
+        minSdk     : 23,
+        targetSdk  : 28,
+]
